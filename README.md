@@ -89,3 +89,19 @@ Here are a couple of projects I'm proud of. You can find more on my [portfolio](
     </a>
   </p>
 </details>
+
+<details>
+  <summary>
+    <strong>Visual SQL Builder</strong> - A web app to build SQL queries visually.
+  </summary>
+  <br>
+  <p>A web-based tool to visually construct SQL queries with a React frontend and a secure Supabase serverless backend, abstracting away complex syntax.</p>
+  <p>
+    <a href="https://github.com/SoumyadipCodes19/Visual_SQL_Builder" target="_blank">
+      <img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+    </a>
+    <a href="https://visual-sql-builder.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    </a>
+  </p>
+</details>
