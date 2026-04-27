@@ -1,0 +1,14 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bg)"/>
+  <path d="M0,160 C150,200 350,120 600,160 C750,185 850,150 900,140 L900,200 L0,200 Z" fill="rgba(167,139,250,0.15)"/>
+  <path d="M0,170 C200,140 400,190 650,165 C775,153 860,170 900,160 L900,200 L0,200 Z" fill="rgba(167,139,250,0.08)"/>
+  <text x="450" y="102" font-family="monospace" font-size="52" font-weight="bold" fill="#ffffff" text-anchor="middle">Soumyadip Ghosh</text>
+  <text x="450" y="140" font-family="monospace" font-size="17" fill="#A78BFA" text-anchor="middle">Building at the intersection of code &amp; biology</text>
+</svg>
