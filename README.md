@@ -95,12 +95,6 @@ class Soumyadip:
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SoumyadipCodes19&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" />
-
-</div>
-
 ---
 
 ## `$ ping --trophies`
@@ -113,7 +107,7 @@ class Soumyadip:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/SoumyadipCodes19/SoumyadipCodes19/main/footer.svg" width="100%" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SoumyadipCodes19&color=7C3AED&style=for-the-badge&label=Profile+Views)
 
