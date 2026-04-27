@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Soumyadip%20Ghosh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Building%20at%20the%20intersection%20of%20code%20%26%20biology&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/SoumyadipCodes19/SoumyadipCodes19/main/banner.svg" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=600&lines=B.Tech+CSE+%28Bioinformatics%29+%40+VIT+Vellore;Full-Stack+Developer+%7C+ML+Enthusiast;Samsung+R%26D+%7C+ScientiFlow+Intern;C+%7C+C%2B%2B+%7C+Python+%7C+React+%7C+TensorFlow;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -108,53 +108,6 @@ class Soumyadip:
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SoumyadipCodes19&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
-
----
-
-## `$ cat /dev/snake`
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SoumyadipCodes19/SoumyadipCodes19/output/github-contribution-grid-snake-dark.svg)
-
-> _If the snake isn't showing yet, set up the GitHub Actions workflow below ↓_
-
-</div>
-
----
-
-<details>
-<summary><b>⚡ Set up the Snake Animation (one-time setup)</b></summary>
-
-Create `.github/workflows/snake.yml` in your profile repo with:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: SoumyadipCodes19
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
